@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎓 I'm a PhD student at Purdue University
+- 🔭 I’m currently working on Federated Learning and Large Language Model
+- 📫 How to reach me: Check out [my personal website](https://harli.me/), and you will know that
